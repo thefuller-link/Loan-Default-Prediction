@@ -1,0 +1,1 @@
+This repository details three models applied to the Loan Default Prediction Dataset found on Kaggle. Logistic regression is used as the baseline model, with subsequent comparisons made between Random Forest and Neural Network models.
